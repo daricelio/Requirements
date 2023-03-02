@@ -1,0 +1,81 @@
+IDEIA 01 ->
+
+APRESENTAÇÃO
+{
+  5 MIN - 5 MIN -> pra cada
+  SLIDE NO CANVAS -> uma opção pra fazermos o mais rapido possivel juntos
+  
+  INTRODUÇÃO
+  {
+    O que é? 
+    pra que serve? 
+    Porque é necessario? 
+  {
+  Desenvolvimento
+  {
+    Classificação
+    Onde atuam 
+    Exemplos 
+  }  
+  CONCLUSÃO
+  {
+    Como pode ajudar o trabalho
+  }
+
+}
+
+CONTEÚDO
+{
+"Ferramenta Case
+Uma ferramenta CASE (do inglês Computer-Aided Software Engineering) é uma classificação que abrange toda ferramenta baseada em computadores que auxilia 
+atividades de engenharia de software, desde análise de requisitos e modelagem até programação e testes.
+É a ferramenta de apoio a modelagem de dados, utilizada para desenhar os modelos, gerar os scripts de criação das estruturas de dados 
+e documentar essas estruturas." - vi isso escrito no site do Data SUS
+
+"Olá, meu nome é ... e hoje vou apresentar sobre ferramentas CASE que ajudam no gerenciamento de requisitos.
+O gerenciamento de requisitos é uma etapa crucial no desenvolvimento de software, e as ferramentas CASE podem ser uma grande ajuda para simplificar e agilizar o processo. Essas ferramentas ajudam a coletar, gerenciar e rastrear os requisitos, permitindo que as equipes de desenvolvimento trabalhem de maneira mais eficiente.
+Existem muitas ferramentas CASE disponíveis no mercado, e cada uma delas possui recursos e funcionalidades exclusivas. Algumas das principais ferramentas CASE que ajudam no gerenciamento de requisitos são:
+IBM Rational DOORS: O IBM Rational DOORS é uma ferramenta CASE popular que ajuda na captura, rastreamento e gerenciamento de requisitos. Ele oferece recursos para gerenciar requisitos complexos, incluindo hierarquia, rastreabilidade, análise de impacto e relatórios personalizados.
+JIRA: O JIRA é uma ferramenta de gerenciamento de projetos que também pode ser usada para gerenciar requisitos. Ele oferece recursos de planejamento, rastreamento e relatórios, permitindo que as equipes de desenvolvimento colaborem em tempo real.
+ReqView: O ReqView é uma ferramenta CASE de gerenciamento de requisitos que oferece recursos para criar, revisar e rastrear requisitos de maneira eficiente. Ele oferece um ambiente de colaboração para toda a equipe, além de recursos de importação e exportação de documentos.
+CaliberRM: O CaliberRM é uma ferramenta CASE que ajuda no gerenciamento de requisitos de forma eficiente, permitindo que as equipes de desenvolvimento capturem, rastreiem e gerenciem requisitos de forma colaborativa. Ele oferece recursos de relatórios personalizados e análise de impacto para ajudar a identificar problemas e riscos potenciais.
+Jama: O Jama é uma ferramenta CASE de gerenciamento de requisitos que ajuda as equipes de desenvolvimento a colaborar em tempo real e gerenciar requisitos complexos de forma eficiente. Ele oferece recursos de rastreabilidade, colaboração e relatórios personalizados para ajudar as equipes a gerenciar melhor os requisitos.
+Em resumo, as ferramentas CASE são uma grande ajuda para o gerenciamento de requisitos no desenvolvimento de software. Cada ferramenta tem suas próprias características e funcionalidades, por isso é importante escolher a ferramenta certa que atenda às necessidades da sua equipe. Com uma ferramenta adequada, é possível simplificar e agilizar o processo de gerenciamento de requisitos e garantir o sucesso do seu projeto de software."
+^- ChatGPT me deu isso
+"Olá a todos,
+Hoje gostaria de falar sobre ferramentas CASE que ajudam no gerenciamento de requisitos.
+Antes de entrarmos em detalhes, é importante entendermos o que são ferramentas CASE. CASE é uma sigla em inglês que significa Computer-Aided Software Engineering, ou Engenharia de Software Assistida por Computador em português. Em resumo, são ferramentas que auxiliam na criação, desenvolvimento e manutenção de software.
+Uma das áreas em que as ferramentas CASE são muito úteis é o gerenciamento de requisitos. Gerenciar requisitos é uma tarefa crítica em qualquer projeto de software, e uma ferramenta CASE pode facilitar muito esse processo.
+Existem várias ferramentas CASE disponíveis no mercado que podem ajudar no gerenciamento de requisitos. Algumas das mais populares incluem:
+- IBM Rational DOORS
+- Jama Connect
+- Siemens Polarion
+- Microsoft Azure DevOps
+- Atlassian Jira
+Cada uma dessas ferramentas tem suas próprias características e funcionalidades, mas todas elas compartilham alguns recursos comuns que são úteis para o gerenciamento de requisitos. Alguns desses recursos incluem:
+- Rastreamento de requisitos
+- Gerenciamento de mudanças
+- Colaboração entre equipes
+- Geração de relatórios
+O rastreamento de requisitos é uma das principais funcionalidades de uma ferramenta CASE para gerenciamento de requisitos. Com ele, é possível identificar a origem de cada requisito, bem como as dependências entre eles. Isso é fundamental para garantir que todos os requisitos sejam atendidos e que não haja conflitos entre eles.
+O gerenciamento de mudanças é outro recurso importante. Com ele, é possível controlar as mudanças feitas em cada requisito ao longo do ciclo de vida do projeto. Isso é fundamental para garantir a integridade dos requisitos e evitar problemas de compatibilidade.
+A colaboração entre equipes também é uma funcionalidade importante de uma ferramenta CASE para gerenciamento de requisitos. Com ela, é possível envolver todos os membros da equipe no processo de gerenciamento de requisitos, permitindo que todos contribuam com suas ideias e sugestões.
+Por fim, a geração de relatórios é uma funcionalidade que permite que os gerentes de projetos e outros membros da equipe acompanhem o progresso do projeto e identifiquem possíveis problemas o mais cedo possível.
+Em resumo, uma ferramenta CASE para gerenciamento de requisitos pode ser extremamente útil para qualquer equipe de desenvolvimento de software. Com recursos como rastreamento de requisitos, gerenciamento de mudanças, colaboração entre equipes e geração de relatórios, é possível garantir que todos os requisitos sejam atendidos e que o projeto seja entregue no prazo e dentro do orçamento.
+Obrigado por sua atenção. Se tiverem alguma dúvida, ficarei feliz em respondê-las."
+^- IA da notion
+}
+
+LINKS
+{
+https://pt.wikipedia.org/wiki/Ferramenta_CASE <- O basico
+https://www.youtube.com/watch?v=JepxObKT324 <- otimo video, literalmente podemos pega dele de tão bom que ta 
+https://itforum.com.br/noticias/5-principais-ferramentas-de-gerenciamento-de-requisitos/ <- algumas ferramentas
+https://conteudo.catolica.edu.br/conteudos/nbt_cursos/engenharia_requisitos/tema_08/index.html?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvY29udGV1ZG8uY2F0b2xpY2EuZWR1LmJyIiwiYXVkIjoiaHR0cHM6XC9cL2NvbnRldWRvLmNhdG9saWNhLmVkdS5iciIsImlhdCI6MTU5Mzk4NjM0NywibmJmIjoxNTkzOTg2MzQ2LCJkYXRhIjpbIjNkZWE2OWRlIiwiNDExN2M3OWQiXX0.79FDB0q3qhGdVcMz7aEdcZOGfaGvn2naR_sOI9qNvdc
+^- Esse de cima é uma aula basicamente
+http://www.dsc.ufcg.edu.br/~jacques/cursos/apoo/html/plan/plan3.htm#:~:text=Um%20use%20case%20%C3%A9%20um,processo%20de%20interesse%20deste%20ator.
+^- Outra tbm.
+https://silo.tips/download/ferramentas-gratuitas-para-gerencia-de-requisitos <- complemento "mais complexo"
+https://www.devmedia.com.br/ferramentas-case-e-qualidade-dos-dados-o-paradigma-da-boa-modelagem/6905#:~:text=Utilizado%20h%C3%A1%20d%C3%A9cadas%2C%20o%20termo,de%20modelagem%20s%C3%A3o%20alguns%20exemplos.
+^- Conteúdo a mais
+}
